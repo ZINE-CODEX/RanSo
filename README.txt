@@ -1,0 +1,1 @@
+Enter the encrypted file name and the wordlist name with extension.
